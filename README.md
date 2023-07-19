@@ -2,7 +2,7 @@
 Web scraping using splinter, pandas, and beautiful soup <br />
 **Part 1: Scrape Titles and Preview Text from Mars News**
 
-Used automated browsing to visit the Mars news siteLinks to an external site. Inspectd the page to identify which elements to scrape.
+Used automated browsing to visit the Mars news siteLinks to an external site. Inspected the page to identify which elements to scrape.
 
 Extracted the titles and preview text of the news articles that you scraped. Stored the scraping results in Python data structures as follows:
 
