@@ -23,7 +23,7 @@ Created a Beautiful Soup object and use it to scrape the data in the HTML table.
 
 ![image](https://github.com/dclaxto1/Module-11---Web-Scraping/assets/128431134/c8740159-650b-410a-8abc-9a97fa3a5aeb)
 
-Assembled the scraped data into a Pandas DataFrame. The columns have the same headings as the table on the website.<br />
+Assembled the scraped data into a Pandas DataFrame. The columns have the same headings as the table on the website. <br />
 
 ![image](https://github.com/dclaxto1/Module-11---Web-Scraping/assets/128431134/7c23a840-773e-45bc-8d30-06a5a24fe2cc)
 
