@@ -11,7 +11,7 @@ Stored each title-and-preview pair in a Python dictionary and, gave each diction
 {'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm", 
  'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}
 Store all the dictionaries in a Python list.
-
+  
 Printed the list in your notebook.
 ![image](https://github.com/dclaxto1/Module-11---Web-Scraping/assets/128431134/a23b68b1-af18-4a6b-8cc9-c9d7774b8794)
 
